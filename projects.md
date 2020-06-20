@@ -9,40 +9,21 @@ permalink: /projects
 
 Not much, but it's honest work.
 
-### [DevFest(2019) Application](https://github.com/missjaanii)
-<!-- am a member of the `Google Developers Group Kolkata`. The annual festival called `DevFest` is a celebration for and by the community. I was one of the collaborators for the 2019 DevFest Android Application.
-
-#### Features
-
-* Time-table of the event
-* Speaker list
-* Location of the event
-
-#### Technology
-
-* Flutter
-
-#### Collaborators
-
-* [Rimjhim](https://twitter.com/bhadani_rimjhim)
-* [Piyush S](https://twitter.com/devps2020)
-* [Piyush M](https://twitter.com/OnlyMaheswari)
-* [Ritwik](https://twitter.com/RahaRitwik)
+### [Covid 19 Analysis](https://github.com/missjaanii/Covid19Analysis)
+Just an ongoing project for covid 19 analysis with some visualisation. Will Keep on updating. Base project. Open the file in Google colab to check the density mapbox graph and press the play button on it to see the animated effect.
 
 <hr>
 
-### [Vigyanam](https://github.com/ariG23498/Vigyanam)
+### [Stock Trading Basics](https://github.com/missjaanii/StockTradingBasics)
 
-This is a prototype application that got us into the finals of `Smart India Hackathon (2019 software edition)`. An application that could determine the scientific temper/literacy of a population.
+Just some basic stock trading using python for beginners.
 
-#### Features
 
-* Location retrieval
-* Intuitive User Experience
-* Scientific Temper
+<hr>
 
-#### Technology
+### [Train Dataset Logistic Regression](https://github.com/missjaanii/Train-Dataset-Logistic-Regression)
 
-* Flutter
-* Flask
--->
+Applied the logistic regression on the train dataset with a test size of 0.32.
+
+<hr>
+
