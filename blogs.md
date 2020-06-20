@@ -9,5 +9,5 @@ permalink: /posts
 | Institution                   | Degree                            | Year |
 |-------------------------------|-----------------------------------|------|
 | Brainware University          | Bachelor of Computer Applications | 2020 |
-| Bholananda National Vidyalaya | XI (CBSE)                         | 2017 |
+| Bholananda National Vidyalaya | XII (CBSE)                        | 2017 |
 | Modern English Academy        | X (ICSE)                          | 2015 |
