@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Posts
+title: Background
 permalink: /posts
 ---
 
@@ -10,6 +10,8 @@ permalink: /posts
     <h3>2020</h3>
     {% for post in site.posts %}
     <article class="archive-item"><a class="archive-item-link" href="{{ post.url }}">{{ post.title }}</a>
+
+    
 </article>
     {% endfor %}
 </div>

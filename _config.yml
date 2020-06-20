@@ -1,9 +1,7 @@
 # For the nav bar
 urls:
-    - text: Posts
+    - text: Background
       url: /posts
-    - text: Talks
-      url: /talks
     - text: Projects
       url: /projects
     - text: Resume
