@@ -7,13 +7,13 @@ urls:
     - text: Projects
       url: /projects
     - text: Resume
-      url: /assets/Aritra_Resume.pdf
+      url: /assets/
 
 title: Portfolio
 email: debjanisaha31@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio site.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://missjaanii.github.io" # the subpath of your site, e.g. /blog
 url: "https://missjaanii.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: missjaanii
 github_username:  missjaanii
