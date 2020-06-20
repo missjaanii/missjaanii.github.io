@@ -38,7 +38,7 @@ Applied linear regression model algorithm on the in-built boston housing dataset
 Heart Disease Prediction using Cleveland's Heart Disease dataset using Decision Tree Classifier and Random Forest Classifier with 99% accuracy rate.
 <hr>
 
-### [KNN clustering on Wheat Seed Dataset] ](https://github.com/missjaanii/WheatSeedKNN)
+### [KNN clustering on Wheat Seed Dataset](https://github.com/missjaanii/WheatSeedKNN)
 
 Applied a KNN model algorithm on Wheat seed dataset. Also showed some pairplots. I used the test size of 0.475 which gave me accurate results. It might not work for you so try the trial and error method for near-perfect results.
 
